@@ -131,6 +131,16 @@ print(11)
 
 **脚注**在vscode上不能编译，可以在github试试
 
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, Add a carriage return and prefix the new line with 4 spaces.
+
+    This is a second line.
+
 ```
 Here is a simple footnote[^1].
 
