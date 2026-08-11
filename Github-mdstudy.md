@@ -154,7 +154,7 @@ A footnote can also have multiple lines[^2].
 
 ## Media/Emojis
 **依旧vscode不行，可以用github**
-![picture alt](https://placehold.co/600x200 "Title is optional")
+![picture alt](https://placehold.co/600x200?text=doudou "Title is optional")
 
 ```
 ![picture alt](https://placehold.co/600x200 "Title is optional")
