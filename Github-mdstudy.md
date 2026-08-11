@@ -192,3 +192,45 @@ Enhance your markdown[Emoji Cheat Sheet]（https://www.webfx.com/tools/emoji-che
     <summary>豆豆</summary>
     <p>一个爱哭小鬼，一个傻瓜</p>
 </details>
+
+Hotkey
+
+<kbd>⌘F</kbd>
+
+Markup : 
+
+    <kbd>⌘F</kbd>
+
+*Hotkey symbols handy list below*
+
+| Key | Symbol | Key | Symbol |
+| --- | --- | --- | --- |
+| Option | ⌥ | Power | ⌽ |
+| Control | ⌃ | Return | ↩ |
+| Command | ⌘ | Delete | ⌫ |
+| Shift | ⇧ | Up | ↑ |
+| Caps Lock | ⇪ | Down | ↓ |
+| Tab | ⇥ | Left | ← |
+| Esc | ⎋ | Right | → |
+
+Horizontal line
+
+- - - -
+
+Markup :
+
+    - - - -
+
+Inline mathematical equation $F(x) = \int^a_b \frac{1}{3}x^3$
+
+Markup :
+
+    $F(x) = \int^a_b \frac{1}{3}x^3$
+
+Block mathematical equation
+
+$$P \left( A=2 \, \middle| \, \dfrac{A^2}{B}>4 \right)$$
+
+Markup :
+
+    $$P \left( A=2 \, \middle| \, \dfrac{A^2}{B}>4 \right)$$
